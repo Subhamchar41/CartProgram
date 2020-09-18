@@ -1,0 +1,12 @@
+classes\DBClass.class
+classes\Item.class
+classes\Billing.class
+com\mycompany\mavenproject1\AddToShoppingCartServlet.class
+com\mycompany\mavenproject1\RemoveItemServlet.class
+classes\ProductCatalog.class
+com\mycompany\mavenproject1\DBHandler.class
+com\mycompany\mavenproject1\CheckoutServlet.class
+classes\Products.class
+classes\ShoppingCart.class
+classes\ShoppingCartException.class
+classes\Shipping.class
